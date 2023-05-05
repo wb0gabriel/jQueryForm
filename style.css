@@ -1,0 +1,37 @@
+.error {
+    color: rgb(255, 0, 0);
+    cursor: text;
+}
+
+.lnr-eye {
+    cursor: pointer;
+}
+
+.button-validate {
+    background-color: #adb5bd;
+    border-color: transparent;
+    border-radius: 12px;
+    color: #fff;
+    font-weight: 300;
+    margin-bottom: 10px;
+    margin-top: 10px !important;
+}
+
+.button-validate:hover {
+    background-color: #6c757d;
+    font-weight: 600;
+    transition: 0.1,5s;
+}
+
+.card-header {
+    background-color: transparent !important;
+}
+
+#card-fisica {
+    background-color: #343a40 !important;
+    color: #f8f9fa !important;
+}
+
+#cardBodyFisica {
+    background-color: #ffffff !important;
+}
